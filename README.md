@@ -1,6 +1,10 @@
 # Equipment
 Here are my current equipments.
 
+## Laptop
+### Gaming & Programming
+- [GPD Win Max 2](https://www.gpd.hk/gpdwinmax2)
+
 ## Keyboard
 ### Gaming
 - [Razer Huntsman Mini](https://www.razer.com/gaming-keyboards/razer-huntsman-mini)
