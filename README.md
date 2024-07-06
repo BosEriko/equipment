@@ -5,6 +5,10 @@ Here are my current equipments.
 ### Gaming & Programming
 - [GPD Win Max 2](https://www.gpd.hk/gpdwinmax2)
 
+## Headset
+### Gaming & Programming
+- [SteelSeries Arctis 7 Wireless Gaming Headset](https://steelseries.com/gaming-headsets/arctis-7)
+
 ## Keyboard
 ### Gaming
 - [Razer Huntsman Mini](https://www.razer.com/gaming-keyboards/razer-huntsman-mini)
